@@ -1,8 +1,7 @@
 ### Hi there, I'm [Aakash Raj][website] 👋
 
 [![Website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/i_kunalgaurav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_kunalgaurav&screen_name=i_kunalgaurav)
-
+[![Twitter Follow]
 ## Connect with me:
 
 [<img align="left" alt="kunalgaurav4.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,5 +46,5 @@ I am a Computer Science Engineer and passionate Developer!
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 [website]: 
-[twitter]: 
+[twitter]: https://twitter.com/0207Aakash
 [linkedin]: https://www.linkedin.com/in/aakashraj0207
