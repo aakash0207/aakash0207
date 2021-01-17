@@ -18,7 +18,7 @@ I am a Computer Science Engineer and passionate Developer!
 - 🔭 I’m currently working on my project "Online Hotel Booking"
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate with other Developers.
-- 📫 How to reach me: kunalgaurav0405@gmail.com <br>
+- 📫 How to reach me: rajaakashraj0226@gmail.com <br>
 - 🥅 2020-21 Goals: To master Full Stack Development.
 
 ### Languages and Tools:
@@ -29,12 +29,12 @@ I am a Computer Science Engineer and passionate Developer!
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ### Next to learn:
 
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
@@ -46,6 +46,6 @@ I am a Computer Science Engineer and passionate Developer!
 </p>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-[website]: https://kunalgaurav.me
-[twitter]: https://twitter.com/i_kunalgaurav
-[linkedin]: https://linkedin.com/in/kunalgaurav4
+[website]: 
+[twitter]: 
+[linkedin]: https://www.linkedin.com/in/aakashraj0207
