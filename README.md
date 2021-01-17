@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aakash Raj][website] 👋
 
-[![Website](https://img.shields.io/website?label=kunalGaurav.me&style=for-the-badge&url=https%3A%2F%2Fkunalgaurav.netlify.app)](https://kunalgaurav.me)
+[![Website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/i_kunalgaurav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_kunalgaurav&screen_name=i_kunalgaurav)
 
 ## Connect with me:
